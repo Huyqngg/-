@@ -57,6 +57,16 @@
 
 ---
 
+## 📸 System Preview
+### System Architecture
+![Architecture](images1/architecture.png)
+
+### Software Flowchart
+![Flowchart](images1/flowchart.png)
+
+### Actual Results
+![Result](images1/result.jpg)
+
 ## 👥 チームメンバー (Team Members)
 **ハノイ工科大学 (HUST) - マイクロプロセッサ工学クラス:**
 * **Nguyễn Minh Hùng** (20234011): 組み込み開発 (FreeRTOS, Servo, OLED)
